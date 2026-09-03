@@ -59,7 +59,7 @@ Star schema with `Internetsales` as the fact table:
 - **Product Category**
 - **Date** → joins to Internetsales on `datekey` = `orderdatekey`
 
-[Data_Model](Data_Model.png)
+![Data_Model](Data_Model.png)
 
 ## Data source and preparation
 
