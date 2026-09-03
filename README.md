@@ -4,7 +4,7 @@ Interactive Tableau dashboard and story built for **The Bike Haven**, a fictiona
 
 ## Live deliverables
 
-- [Dashboard PDF](https://drive.google.com/file/d/14R7PUY2yf5H-pUKWu5oewGiTosk6wU0L/view?usp=sharing)
+- [Dashboard PDF](Tableau_Project_PDF.pdf)
 - [Demo video (filters and interactivity)](https://drive.google.com/file/d/1RGt1TG_Sf64LqH1g3xgsAdvlKBgEvoR6/view?usp=sharing)
 
 ## Project brief
